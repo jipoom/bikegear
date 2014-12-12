@@ -1,0 +1,12 @@
+2014-12-12 3:42:57 - PHP Notice:  Error: Could not load language module/themecontrol! in C:\xampp\htdocs\biketemp\system\library\language.php on line 39
+2014-12-12 3:42:57 - PHP Notice:  Undefined index: theme_width in C:\xampp\htdocs\biketemp\catalog\view\theme\pav_bikestore\template\common\header.tpl on line 46
+2014-12-12 3:42:57 - PHP Notice:  Undefined index: fontsize in C:\xampp\htdocs\biketemp\catalog\view\theme\pav_bikestore\template\common\header.tpl on line 138
+2014-12-12 3:42:58 - PHP Notice:  Error: Could not load language module/themecontrol! in C:\xampp\htdocs\biketemp\system\library\language.php on line 39
+2014-12-12 3:42:59 - PHP Notice:  Undefined index: theme_width in C:\xampp\htdocs\biketemp\catalog\view\theme\pav_bikestore\template\common\header.tpl on line 46
+2014-12-12 3:42:59 - PHP Notice:  Undefined index: fontsize in C:\xampp\htdocs\biketemp\catalog\view\theme\pav_bikestore\template\common\header.tpl on line 138
+2014-12-12 3:43:46 - PHP Notice:  Error: Could not load language module/themecontrol! in C:\xampp\htdocs\biketemp\system\library\language.php on line 39
+2014-12-12 3:43:46 - PHP Notice:  Undefined index: theme_width in C:\xampp\htdocs\biketemp\catalog\view\theme\pav_bikestore\template\common\header.tpl on line 46
+2014-12-12 3:43:46 - PHP Notice:  Undefined index: fontsize in C:\xampp\htdocs\biketemp\catalog\view\theme\pav_bikestore\template\common\header.tpl on line 138
+2014-12-12 3:43:48 - PHP Notice:  Error: Could not load language module/themecontrol! in C:\xampp\htdocs\biketemp\system\library\language.php on line 39
+2014-12-12 3:43:48 - PHP Notice:  Undefined index: theme_width in C:\xampp\htdocs\biketemp\catalog\view\theme\pav_bikestore\template\common\header.tpl on line 46
+2014-12-12 3:43:48 - PHP Notice:  Undefined index: fontsize in C:\xampp\htdocs\biketemp\catalog\view\theme\pav_bikestore\template\common\header.tpl on line 138
